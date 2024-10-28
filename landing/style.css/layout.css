@@ -1,0 +1,42 @@
+/* layout.css */
+
+/* Section Nos Services */
+.content {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.content h3 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.content p {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px; /* Espace entre les phrases */
+}
+
+/* Grille pour la liste de voitures */
+.car-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Section Contact */
+#contact h3 {
+    font-size: 1.8rem;
+    color: #f1c40f;
+    margin-bottom: 10px; /* Espace avant le paragraphe */
+}
+
+#contact p {
+    font-size: 1rem;
+    color: #ddd;
+    margin-top: 10px; /* Espace après le titre */
+    text-align: center;
+}
+
